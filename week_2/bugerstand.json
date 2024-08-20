@@ -1,0 +1,29 @@
+{
+    "customer": {
+        "_id": "1",
+        "firstName": "Angelica",
+        "lastName": "Gutierrez"
+    },
+    "burger": [
+        {
+            "_id": "1",
+            "burgerName": "Cheeseburger",
+            "price": "4.95"
+        },
+        {
+            "_id": "2",
+            "burgerName": "Hamburger",
+            "price": "5.95"
+        },
+        {
+            "_id": "3",
+            "burgerName": "Veggie Burger",
+            "price": "7.95"
+        },
+        {
+            "_id": "4",
+            "burgerName": "Double Bacon Hamburger",
+            "price": "8.95"
+        }
+    ]
+}
