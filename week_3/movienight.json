@@ -1,0 +1,44 @@
+{
+    "viewer": {
+      "_id": "1",
+      "firstName": "Angelica",
+      "lastName": "Gutierrez",
+      "movie": [
+        {
+          "_id": "1",
+          "movieName": "The Nightmare Before Christmas",
+          "Genre": "Fantasy"
+        },
+        {
+          "_id": "2",
+          "movieName": "Frankenweenie",
+          "Genre": "Science Fiction"
+        },
+        {
+          "_id": "3",
+          "movieName": "Corpse Bride",
+          "Genre": "Fantasy"
+        }
+      ]
+    },
+    "rating": [
+      {
+        "_id": "1",
+        "ratingScore": 9,
+        "viewerId": "1",
+        "movieId": "1"
+      },
+      {
+        "_id": "2",
+        "ratingScore": 8,
+        "viewerId": "1",
+        "movieId": "2"
+      },
+      {
+        "_id": "3",
+        "ratingScore": 7.5,
+        "viewerId": "1",
+        "movieId": "3"
+      }
+    ]
+  }
