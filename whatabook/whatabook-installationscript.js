@@ -144,6 +144,54 @@ const author2 = {
   "lastName": "Stormrider"
 };
 
+const author3 = {
+  "_id": ObjectId("author_id_3"),
+  "firstName": "Gary",
+  "lastName": "Paulsen"
+};
+
+const author4 = {
+  "_id": ObjectId("author_id_4"),
+  "firstName": "J.K.",
+  "lastName": "Rowling"
+};
+
+const author5 = {
+  "_id": ObjectId("author_id_5"),
+  "firstName": "Donna",
+  "lastName": "Tartt"
+};
+
+const author6 = {
+  "_id": ObjectId("author_id_6"),
+  "firstName": "M.L.",
+  "lastName": "Rio"
+};
+
+const author7 = {
+  "_id": ObjectId("author_id_7"),
+  "firstName": "F. Scott",
+  "lastName": "Fitzgerald"
+};
+
+const author8 = {
+  "_id": ObjectId("author_id_8"),
+  "firstName": "Harper",
+  "lastName": "Lee"
+};
+
+const author9 = {
+  "_id": ObjectId("author_id_9"),
+  "firstName": "Robert Louis",
+  "lastName": "Stevenson"
+};
+
+const author10 = {
+  "_id": ObjectId("author_id_10"),
+  "firstName": "Libby",
+  "lastName": "Hamilton"
+};
+
 /**
  * Insert the newly created documents.
  */
